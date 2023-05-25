@@ -1,6 +1,7 @@
 .profile__container {
   display: flex;
   align-items: center;
+  background-color: aqua;
 }
 
 @media screen and (max-width: 1279px) {
