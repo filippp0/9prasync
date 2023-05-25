@@ -162,3 +162,4 @@ avatarElement.addEventListener('click', ()=> {
     console.error(`Ошибка при создании начальных данных страницы ${error}`);
   }
 })()
+console.log('hi')
